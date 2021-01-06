@@ -22,3 +22,4 @@ def euclid(a,b):
 
 print(euclid(60,96)) #should be 12
 print(euclid(20,8)) #should be 4
+ 
